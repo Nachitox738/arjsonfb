@@ -1,4 +1,4 @@
-const respuesta = fetch('https://arjsonfb.onrender.com')
+const respuesta = fetch('https://arjsonfb.onrender.com/productos')
 .then(respuesta => respuesta.json())
 .then(datos => mostrarProductos(datos));
 

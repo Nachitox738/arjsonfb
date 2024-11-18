@@ -1,4 +1,4 @@
-[{
+{"productos":[{
     "id":1,
     "precio":21,
     "imagen": "./imagenes/guantes1.jpg",
@@ -49,3 +49,5 @@
 }   
 
 ]
+
+}
