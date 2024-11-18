@@ -1,0 +1,51 @@
+[{
+    "id":1,
+    "precio":21,
+    "imagen": "./imagenes/guantes1.jpg",
+    "nombre": "Guantes para el frio negros",
+    "descripcion": "Producto con 20% de descuento"
+},
+{
+    "id":2,
+    "precio":1235,
+    "imagen": "./imagenes/guantes2.jpg",
+    "nombre": "Guantes para el frio",
+    "descripcion": "Colores disponibles: Negro, Gris, Blanco y Marrón"
+},   
+{
+    "id":3,
+    "precio":666,
+    "imagen": "./imagenes/guantes3.jpg",
+    "nombre": "Guantes para el frio afelpados",
+    "descripcion": "Colores disponibles: Negro, Gris y Marrón"
+},   
+{
+    "id":4,
+    "precio":54,
+    "imagen": "./imagenes/guantes4.jpg",
+    "nombre": "Guantes para el frio para niños",
+    "descripcion": "Colores disponibles: Negro, Rosa, Gris, Amarillo, Blanco y Naranja"
+} ,  
+{
+    "id":5,
+    "precio":24,
+    "imagen": "./imagenes/guantes5.jpg",
+    "nombre": "Guantes para el frio rojos",
+    "descripcion": "Ofertas de vacaciones de invierno, 40% de descuento en este producto"
+}  , 
+{
+    "id":6,
+    "precio":211,
+    "imagen": "./imagenes/guantes6.jpg",
+    "nombre": "Guantes Térmicos",
+    "descripcion": "15% de descuento si se compran 2 o más pares de guantes."
+}   ,
+{
+    "id":7,
+    "precio":231,
+    "imagen": "./imagenes/guantes7.jpg",
+    "nombre": "Guantes Térmicos Azules",
+    "descripcion": "Oferta UNICA, 40% de descuento con tarjeta MASTERCARD"
+}   
+
+]
