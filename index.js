@@ -2,7 +2,7 @@
 const express = require('express');
 const fs = require('fs'); //Permite trabajar con archivos (file system) incluida con node, no se instala
 const cors = require('cors');
-require('dotenv/config');
+require('/config');
 const app = express();
 const port = process.env.MYSQL_ADDON_PORT || 3000;
 
