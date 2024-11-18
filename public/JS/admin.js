@@ -1,4 +1,4 @@
-const endpoint = 'https://arjsonfb.onrender.com/productos'
+const endpoint = 'https://arjsonfb.onrender.com'
 
 // Event listener para el botón "Añadir Producto"
 document.getElementById('añadir').addEventListener('click', function () {
