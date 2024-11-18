@@ -1,6 +1,5 @@
 //modulos
 const express = require('express');
-const db = require('./bd/conexion.js');
 const fs = require('fs'); //Permite trabajar con archivos (file system) incluida con node, no se instala
 const cors = require('cors');
 require('dotenv/config');
