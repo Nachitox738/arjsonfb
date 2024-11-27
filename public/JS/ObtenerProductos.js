@@ -14,7 +14,7 @@ const mostrarProductos = (datos) => {
                 <p class="card-text">${dato.descripcion}</p>
                 <p class="card-text">$${dato.precio}</p>   
                  <div style="margin-left:20px; justify-content:center;">
-                <a href="#" class="btn btn-primary" style:"width: 150px;">Comprar</a>
+                <a href="#" class="btn btn-primary" style:"width: 200px;">Comprar</a>
               </div>
               </div>
         </div>
